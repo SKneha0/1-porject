@@ -1,7 +1,7 @@
 import React      from 'react'
 import Image      from 'next/image';
 import Iphone     from '@/Images/Dis Iphone 14.png';
-import Ports      from '@/images/Disheadphones.png';
+import Port      from '@/images/Disheadphones.png';
 import Applewatch from '@/images/Diswatche.png';
 import Phone      from '@/images/disiwphone14(11).png';
 import { IoHeartOutline } from "react-icons/io5";
@@ -27,7 +27,7 @@ const Discount = () => {
         </div>
         <div className='bg-zinc-300   justify-items-center  pt-7 h-[57vh] w-64 rounded-md '>
         <IoHeartOutline className='h-10   w-8 ml-40 text-gray-400' />
-        <Image  src={Ports} alt=''  />
+        <Image  src={Port} alt=''  />
         <div className='pt-5 font-medium '>
             <h1>AirPods Max Silver <br />starlight Aluminium </h1>
             <h2 className='text-2xl pt-3 font-medium ml-12'>$549</h2>
