@@ -1,7 +1,7 @@
 import React      from 'react'
 import Image      from 'next/image';
 import Iphone     from '@/Images/Dis Iphone 14.png';
-import Ports      from '@/images/Disheadphones.png';
+import Ports      from '@/images/disheadphones.png';
 import Applewatch from '@/images/Diswatche.png';
 import Phone      from '@/images/disiwphone14(11).png';
 import { IoHeartOutline } from "react-icons/io5";
