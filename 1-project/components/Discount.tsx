@@ -1,9 +1,9 @@
 import React      from 'react'
 import Image      from 'next/image';
-import Iphone     from '@/images/Dis Iphone 14.png .png';
-import Ports      from '@/images/Dis Headphones.png';
-import Applewatch from '@/images/Dis watche.png';
-import Phone      from '@/images/disIwphone 14  (11).png';
+import Iphone     from '@/Images/Dis Iphone 14.png';
+import Ports      from '@/images/DisHeadphones.png';
+import Applewatch from '@/images/Diswatche.png';
+import Phone      from '@/images/disIwphone14(11).png';
 import { IoHeartOutline } from "react-icons/io5";
 const Discount = () => {
   return (
